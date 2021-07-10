@@ -2,7 +2,7 @@
 - 👀 I’m interested in C, JAVA
 - 🌱 I’m currently learning various languages
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me kjhjulie@naver.com
 
 <!---
 JihoKim0/JihoKim0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
