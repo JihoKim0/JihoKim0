@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JihoKim0
 - 👀 I’m interested in C, JAVA
-- 🌱 I’m currently learning various languages
+- 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kjhjulie@naver.com
 
