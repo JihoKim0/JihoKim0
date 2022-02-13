@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JihoKim0
-- 👀 I’m interested in C, JAVA
+- 👀 I’m interested in C, DeepLearning
 - 🌱 I’m currently learning Python, TensorFlow
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...x
 - 📫 How to reach me kjhjulie@naver.com
 
 <!---
