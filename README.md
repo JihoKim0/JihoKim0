@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JihoKim0
-- 👀 I’m interested in C, C++
-- 🌱 I’m currently learning Python, MongoDB
+- 👀 I’m interested in C, C++,System Engineering
+- 🌱 I’m currently learning reversing:)
 - 💞️ I’m looking to collaborate on ...x
 - 📫 How to reach me kjhjulie2000@gmail.com
 
